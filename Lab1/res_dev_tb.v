@@ -1,0 +1,34 @@
+`timescale 1ns/100ps
+
+module res_dev_tb;
+
+reg  [3:0] test_data;
+reg  [1:0] test_adr;
+wire [6:0] test_data0;
+wire [6:0] test_data1;
+wire [6:0] test_data2;
+wire [6:0] test_data3;
+
+res_dev test (
+	.res_data (test_data),
+	.res_adr  (test_adr),
+	.res_data0(test_data0),
+	.res_data1(test_data1),
+	.res_data2(test_data2),
+	.res_data3(test_data3)
+);
+
+initial begin
+	test_data = 4'b0000; test_adr = 2'h1; #200;
+	test_data = 4'b0001; test_adr = 2'h3; #200;
+	test_data = 4'b0010; test_adr = 2'h0; #200;
+	test_data = 4'b0011; test_adr = 2'h2; #200;
+	test_data = 4'b0100; test_adr = 2'h1; #200;
+	test_data = 4'b0101; test_adr = 2'h3; #200;
+	test_data = 4'b0110; test_adr = 2'h0; #200;
+	test_data = 4'b0111; test_adr = 2'h3; #200;
+	test_data = 4'b1000; test_adr = 2'h2; #200;
+	$stop;
+end
+
+endmodule

@@ -1,0 +1,27 @@
+module res_dev (
+    input  wire [3:0] data,
+    input  wire [1:0] adr,
+    output wire [6:0] data0,
+    output wire [6:0] data1,
+    output wire [6:0] data2,
+    output wire [6:0] data3
+);
+
+wire [6:0] seg;
+
+coder res_coder (
+	.data(data),
+	.seg (seg)
+);
+
+dms7 res_dms7 (
+	.line (seg),
+	.adr  (adr[1:0]),
+	.data0(data0),
+	.data1(data1),
+	.data2(data2),
+	.data3(data3)
+);
+
+endmodule
+

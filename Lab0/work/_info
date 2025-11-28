@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ModelSimSE_10.6d/examples
+T_opt
+!s110 1764155858
+VmUYGM;f<7L=:Pl8nV:=XJ0
+Z1 04 8 4 work coder_tb fast 0
+=1-d8bbc1ab68c7-6926e1d2-1a6-1f168
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1764154000
+V:]BDO`N]2=F7>OX_4WKK<2
+Z5 04 5 7 work coder fast__1 0
+R1
+04 3 4 work dms fast 0
+=1-d8bbc1ab68c7-6926da8f-3e1-1ae0c
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1764153961
+V4b[QFGg?_=ZEJagT:[U8P1
+R5
+R1
+=1-d8bbc1ab68c7-6926da69-32c-1dfa0
+R2
+R3
+n@_opt2
+R4
+R0
+vcoder
+Z6 !s110 1764160433
+!i10b 1
+!s100 ^<78bb`YIoiAzI3b5bz^;0
+I@QBU]NIo_ZX]>h5>L_Cod2
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 dD:/ModelSimSE_10.6d/win64/Projects/Lab0
+w1764155710
+8D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v
+FD:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v
+L0 1
+Z9 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z10 !s108 1764160433.000000
+!s107 D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vcoder_tb
+R6
+!i10b 1
+!s100 2G@:6Glc0VVW@mL2Mcm8D3
+Io?11T`3VBZ?7?Tkab=Z1R0
+R7
+R8
+w1764159553
+8D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v
+FD:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v
+L0 3
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v|
+!i113 0
+R11
+R3
+vdms
+R7
+r1
+!s85 0
+31
+!i10b 1
+!s100 J5;;05jLigbN7V=0:jXLo1
+I9gm3=9b?Iji2m<Q8YEKe_1
+R8
+w1764159551
+8D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v
+FD:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v
+L0 1
+R9
+R10
+!s107 D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v|
+!i113 0
+R11
+R3
+vdms_tb
+R7
+r1
+!s85 0
+31
+!i10b 1
+!s100 WdWZV81djcZ;JieLTDUMX3
+ID]5`=]`aW35?V1zP7XWch2
+R8
+w1764160424
+8D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v
+FD:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v
+L0 3
+R9
+R10
+!s107 D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v|
+!i113 0
+R11
+R3

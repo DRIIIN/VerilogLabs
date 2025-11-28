@@ -1,0 +1,29 @@
+D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dms
+
+Top level modules:
+	dms
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab0/dms_tb.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dms_tb
+
+Top level modules:
+	dms_tb
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module coder
+
+Top level modules:
+	coder
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab0/coder_tb.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module coder_tb
+
+Top level modules:
+	coder_tb
+
+} {} {}}
