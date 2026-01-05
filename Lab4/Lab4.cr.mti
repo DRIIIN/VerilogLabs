@@ -1,30 +1,30 @@
-D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_div2.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v}
+D:/ModelSimSE_10.6d/win64/Projects/Lab4/dev_res.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dev_res
+
+Top level modules:
+	dev_res
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab4/shift_reg_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module shift_reg_tb
+
+Top level modules:
+	shift_reg_tb
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_div2.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v}
 Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
 -- Compiling module count_div2
 
 Top level modules:
 	count_div2
 
-} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_res.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_res.v}
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab4/dev_res_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res_tb.v}
 Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
--- Compiling module count_res
+-- Compiling module dev_res_tb
 
 Top level modules:
-	count_res
-
-} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_div2_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2_tb.v}
-Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
--- Compiling module count_div2_tb
-
-Top level modules:
-	count_div2_tb
-
-} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_res_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_res_tb.v}
-Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
--- Compiling module count_res_tb
-
-Top level modules:
-	count_res_tb
+	dev_res_tb
 
 } {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_par.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par.v}
 Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
@@ -33,12 +33,12 @@ Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
 Top level modules:
 	count_par
 
-} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_par_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par_tb.v}
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab4/shift_reg.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg.v}
 Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
--- Compiling module count_par_tb
+-- Compiling module shift_reg
 
 Top level modules:
-	count_par_tb
+	shift_reg
 
 } {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v
 Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018

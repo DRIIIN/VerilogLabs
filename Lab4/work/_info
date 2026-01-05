@@ -1,0 +1,173 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSimSE_10.6d/win64/Projects/Lab3
+vcoder
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^<78bb`YIoiAzI3b5bz^;0
+InWJVXZW`=ETLTE@cM8=9B1
+Z1 dD:/ModelSimSE_10.6d/win64/Projects/Lab4
+w1764161709
+8D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v
+FD:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v
+L0 1
+Z2 OL;L;10.6d;65
+Z3 !s108 1767589749.000000
+!s107 D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vcount_div2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ph`L4n3R2AD`4H_z`i_dB2
+Iz5OL6DljP^CQ1X6c:KC?f2
+R1
+w1767578377
+8D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v
+FD:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v
+L0 1
+R2
+R3
+!s107 D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v|
+!i113 0
+R4
+R5
+vcount_par
+Z6 !s110 1767589749
+!i10b 1
+!s100 BHA=ZhlU=[3BP?ImP?C>:0
+IVZWP9jXT>cfh[O1bdYcMO0
+R0
+R1
+w1767577173
+8D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par.v
+FD:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_par.v|
+!i113 0
+R4
+R5
+vdev_res
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 S7kkO;80FOzLf_MUXF4<g3
+IV?4eUF1AAnM_j[[g3LYOO3
+R1
+w1767589031
+8D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res.v
+FD:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res.v
+L0 1
+R2
+R3
+!s107 D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res.v|
+!i113 0
+R4
+R5
+vdev_res_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Fd`lmUlJHzIiL[7ScmnCR0
+IZo^om`6o[K9lkBWOVoWSo1
+R1
+w1767589743
+Z7 8D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res_tb.v
+Z8 FD:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res_tb.v
+L0 4
+R2
+R3
+Z9 !s107 D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab4\dev_res_tb.v|
+!i113 0
+R4
+R5
+vshift_reg
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q^U>deogUTk6MAE[i>VVl0
+I;BNHDZ3f^K2zn1Uj>Sj2=3
+R1
+w1767587196
+8D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg.v
+FD:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg.v
+L0 1
+R2
+R3
+!s107 D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg.v|
+!i113 0
+R4
+R5
+vshift_reg_tb
+R6
+!i10b 1
+!s100 fVdEB5Qj;Wj]QDiCCFn4;0
+Ii[4cAz=E5dCL>Ln?Vz_ED1
+R0
+R1
+w1767587648
+8D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg_tb.v
+FD:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:\ModelSimSE_10.6d\win64\Projects\Lab4\shift_reg_tb.v|
+!i113 0
+R4
+R5
+vtb_result
+!s110 1767589350
+!i10b 1
+!s100 iXeH>iR_FJTSjFNh`<:n31
+I3gXIWObJBK]C_AL_b13;33
+R0
+R1
+w1767589335
+R7
+R8
+L0 4
+R2
+r1
+!s85 0
+31
+!s108 1767589349.000000
+R9
+R10
+!i113 0
+R4
+R5

@@ -1,0 +1,36 @@
+D:/ModelSimSE_10.6d/win64/Projects/Lab3/count_div2.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab3\count_div2.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module count_div2
+
+Top level modules:
+	count_div2
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab5/moore_lab.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab5\moore_lab.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module moore_lab
+
+Top level modules:
+	moore_lab
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab5/dev_res.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab5\dev_res.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dev_res
+
+Top level modules:
+	dev_res
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab5/moore_lab_tb.v {1 {vlog -work work -vopt -stats=none {D:\ModelSimSE_10.6d\win64\Projects\Lab5\moore_lab_tb.v}
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module moore_lab_tb
+
+Top level modules:
+	moore_lab_tb
+
+} {} {}} D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v {1 {vlog -work work -vopt -stats=none D:/ModelSimSE_10.6d/win64/Projects/Lab2/coder.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module coder
+
+Top level modules:
+	coder
+
+} {} {}}

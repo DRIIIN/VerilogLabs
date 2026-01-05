@@ -1,0 +1,30 @@
+module dev_res(
+	input wire  clk, flag, reset,
+	input wire  [2:0] a, b,
+	output wire [6:0] hex
+);
+
+wire clk_lw;
+wire [2:0] data;
+
+count_div2 count(
+	.clk (clk),
+	.sync(clk_lw),
+	.q   ()
+);
+
+moore_lab moore(
+	.a    (a), 
+	.b    (b), 
+	.clk  (clk_lw), 
+	.reset(reset), 
+	.flag (flag), 
+	.out  (data)
+);
+
+coder code(
+	.data(data),
+	.seg (hex)
+);
+
+endmodule
